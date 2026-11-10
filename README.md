@@ -6,14 +6,6 @@ This project is a Python-based machine temperature monitoring system designed to
 
 The program collects five temperature readings, calculates the highest, lowest and average temperatures, and uses a three-colour traffic light indicator to show the machine's condition.
 
-2. How to Run It
-
-1. Install Python 3 or Pydroid 3 on Android.
-2. Download or copy the Python source code.
-3. Save the file as "temperature_monitor.py".
-4. Open the file in your Python application.
-5. Run the program and enter five temperature readings.
-
 Command:
 
 python temperature_monitor.py
